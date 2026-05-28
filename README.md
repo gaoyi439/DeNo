@@ -70,6 +70,8 @@ python main.py --dataset YeastBP --model linear
 
 文件名格式中会包含数据集名和噪声等级，便于区分不同实验。
 
+**Please note: unzip the dataset before running the code.**
+
 ---
 ## citation
 <code data-enlighter-language="raw" class="EnlighterJSRAW"> </code>
